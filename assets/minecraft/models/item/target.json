@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/target",
+  "overrides": [
+    { "predicate": { "custom_model_data": 1001 }, "model": "target:entity/target" },
+    { "predicate": { "custom_model_data": 1002 }, "model": "target:entity/target_reloading" }
+  ]
+}
