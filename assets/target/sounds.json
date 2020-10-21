@@ -1,0 +1,15 @@
+{
+	"entity.target.hit": {
+		"sounds": [
+			"target:target_hit_01",
+			"target:target_hit_02",
+			"target:target_hit_03",
+			"target:target_hit_04",
+			"target:target_hit_05",
+			"target:target_hit_06",
+			"target:target_hit_07",
+			"target:target_hit_08"
+		],
+	  "subtitle": "subtitles.target.entity.target.hit"
+	}
+}

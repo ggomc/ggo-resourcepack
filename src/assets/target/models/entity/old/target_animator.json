@@ -2,6 +2,7 @@
 	"credit": "Nelonn",
 	"texture_size": [32, 32],
 	"textures": {
+		"particle": "target:entity/target",
 		"texture": "target:entity/target"
 	},
 	"elements": [
@@ -33,7 +34,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -27.2, 0],
+			"rotation": [45, 0, 0],
+			"translation": [0, -23, 11.25],
 			"scale": [2, 2, 2]
 		}
 	}
