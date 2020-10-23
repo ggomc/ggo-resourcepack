@@ -1,4 +1,0 @@
-Unturned 4.0
-Unreal Engine
-
-Content path: 4.20.9.0\Export\U4\Audio\Bullets\MetalBullet_02
